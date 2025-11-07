@@ -4,4 +4,4 @@ task 3 video link to youtube : https://youtu.be/sruCQ2s2WWU?si=8mmc0qAoYSpeJ89T
 
 -- to run application ensure backend runs before front end 
 
---Login details for admin are 
+--Login details for admin : username : benjamin and password : adetiba
